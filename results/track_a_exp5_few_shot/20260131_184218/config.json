@@ -1,0 +1,21 @@
+{
+  "experiment": "track_a_exp5_few_shot",
+  "model_key": "qwen-2.5-7b",
+  "provider": "openrouter",
+  "model_id": "qwen/qwen-2.5-7b-instruct",
+  "split": "sample",
+  "temperature": 0.0,
+  "max_tokens": 16,
+  "num_shots": 5,
+  "shot_ids": [
+    0,
+    1,
+    3,
+    4,
+    9
+  ],
+  "num_examples": 5,
+  "limit": 5,
+  "unparseable_count": 0,
+  "prompt_file": "prompts/few_shot.txt"
+}

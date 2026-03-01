@@ -1,0 +1,62 @@
+You are an expert in narrative analysis. Your task is to determine which of two stories is more narratively similar to an anchor story.
+
+Narrative similarity is based on three components:
+1. Abstract Theme: The underlying ideas and motives of the story.
+2. Course of Action: The sequence of central events and turning points.
+3. Outcomes: The results and conclusions of the story.
+
+Do NOT focus on surface-level similarities like setting, time period, character names, or genre. Focus on the deeper narrative structure.
+
+Here are some labelled examples:
+
+--- Example 1 ---
+### Anchor Story
+The film takes place in Burma and India during World War II.
+A British officer falls in love with his Japanese instructor at a military language school. They start a romance, but she is regarded as the enemy and is not accepted by his countrymen. They marry in secret and plan on spending his two weeks' leave together. When one of the other officers is injured, he is sent into the field as an interrogator. Later he is captured by the Japanese army when he is patrolling with a brigadier and an Indian driver in a Japanese-controlled zone. He escapes and returns to his own lines, only to discover that his wife is suffering from a brain tumour. Although the doctor initially gives her good odds of surviving, she dies after an operation.
+
+### Text A
+During the Irish War of Independence in 1921, Irish rebel leader Dennis Riordan (Aherne) and English aristocrat Helen Drummond (Oberon) meet and fall in love. Riordan is pursued, however, by British army officer Captain Preston (Niven).
+The original film ended with Riordan getting shot and killed, but did not do well at the box office. A happier ending was also filmed which has Riordan being shot but surviving; all subsequent versions have. The original cut has since been lost.
+The movie has several comic relief scenes: after a raid on an IRA "safe house", British officers grumble about being not being able to find Riordan, who is in fact standing just behind them; when the Irish Delegation goes to a formal ball and is asked by the footman for their names to be announced, the delegation replies in Irish.
+
+### Text B
+1914, German advance through Belgium: the young war volunteer Alexander 'Alex' Haller (Schell) is given water by an equally young Belgian woman (Berger).
+1917, Third Battle of Flanders: Alex, now a 2nd lieutenant, is tired about the propaganda at the Home Front, so he spends his furlough in the hinterland of the Western Front.
+While boarding in a brothel, he meets the young woman again. They fall in love.
+Late 1918, German retreat after the Armistice: Engele and Alex meet again only to be harassed by a Belgian mob. Shortly prior to be hanged by the mob, a group of passing Belgian soldiers, tired about killing, saves them. End of the tale.
+
+Answer: B
+
+--- Example 2 ---
+### Anchor Story
+The foursome (Gérard Rinaldi, Jean Sarrus, Gérard Filipelli, Jean-Guy Fechner) are on a holiday. The Little Olympic flame is to be passed through their village. A grocer (Paul Préboist) calls upon them for help in decorating the village. On their job Gérard falls for the grocer's daughter Délice (Martine Kelly). However she runs away with the sportsman with the flame. The four then enter the Little Olympics to try to win her back and cause havoc in the process.
+
+### Text A
+The old grandmother Tina arrives in town to attend the wedding of his nephew Alberto with his girlfriend Ileana.
+Upon arrival she discovers that she has been stolen of a medallion that her late husband had given her.
+He goes to the police station to file a complaint and get the dear object back, but given the length of the investigation, he decides to carry out the search for the thief himself, combining a great deal of mess.
+Eventually, by chance, he finds the thief, who lives in the same hotel, also managing to have an entire gang of criminals arrested.
+The grandson Alberto can marry the beautiful Ileana and the grandmother Tina will be appointed, by merit, an honorary colonel of the female police.
+
+### Text B
+Brendan Byers III is a rich playboy who enlists to fight in the war against the Axis powers, but is classified 4-F. He really wants to fight, so he enlists other 4-Fs and some loyal volunteers from his own service staff and forms his own army, financing their training and equipment. Once completed, they travel to the front in Italy, with Byers impersonating a Nazi general named Eric Kesselring.
+The plan is to pull back the German lines, since the front has remained static for too long, enabling the Allies to push forward again. The mission does not go smoothly and they must overcome several obstacles, including the fiery wife of the local mayor who is the real Kesselring's lover, and the real Kesselring's involvement in an assassination attempt on Hitler. Afterwards, they face their next mission: infiltrating the Imperial Japanese command to influence the outcome of the Battle of Kwajalein.
+
+Answer: A
+
+--- Example 3 ---
+### Anchor Story
+A teenage girl accuses her primary schoolteacher, Jean Doucet (Jacques Brel), of trying to rape her. The police and the mayor investigate, but Doucet denies the charges. Two other students come forward to reveal more of Doucet's misconduct – one confessing to be his mistress. Doucet faces trial and hard labour if convicted.
+
+### Text A
+Art Brooks and Kelly Moore are a couple who get married. But Kelly realizes that Art is an alcoholic, and he beats her. She starts a relationship with the lawyer Richard Linsky. Art is then found dead, with Richard being convicted and imprisoned.
+
+### Text B
+Tonino is a high school student, in love with the new teacher of letters, Mrs. Moretti. One day Tonino and the teacher are kidnapped and locked up in a trullo where they consummate their love. Later, Moretti is transferred to Rome, and a new and beautiful teacher is assigned to Toninos class.
+
+Answer: B
+
+--- Now classify this ---
+Given the anchor story and two candidate stories (Text A and Text B), determine which candidate is more narratively similar to the anchor.
+
+Respond with ONLY "A" or "B" (nothing else).

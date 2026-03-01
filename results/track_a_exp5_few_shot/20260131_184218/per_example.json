@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "gold": true,
+    "pred": false,
+    "correct": false
+  },
+  {
+    "id": 5,
+    "gold": true,
+    "pred": false,
+    "correct": false
+  },
+  {
+    "id": 6,
+    "gold": false,
+    "pred": false,
+    "correct": true
+  },
+  {
+    "id": 7,
+    "gold": true,
+    "pred": false,
+    "correct": false
+  },
+  {
+    "id": 8,
+    "gold": true,
+    "pred": false,
+    "correct": false
+  }
+]

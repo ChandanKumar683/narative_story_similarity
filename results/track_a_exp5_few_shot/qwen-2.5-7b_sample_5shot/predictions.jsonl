@@ -1,0 +1,5 @@
+{"id": 2, "text_a_is_closer": true, "raw_response": "A"}
+{"id": 5, "text_a_is_closer": true, "raw_response": "A"}
+{"id": 6, "text_a_is_closer": false, "raw_response": "B"}
+{"id": 7, "text_a_is_closer": false, "raw_response": "B"}
+{"id": 8, "text_a_is_closer": false, "raw_response": "B"}

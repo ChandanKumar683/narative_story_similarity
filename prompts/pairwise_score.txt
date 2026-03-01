@@ -1,0 +1,16 @@
+You are an expert in narrative analysis. You will be given two story summaries: a Reference story and a Candidate story.
+
+Rate the narrative similarity between the Reference and the Candidate on a scale from 1 to 10, where:
+  1 = Completely different narratives (no shared theme, events, or outcomes)
+  5 = Moderately similar (some overlapping narrative elements)
+  10 = Nearly identical narrative structure (same theme, course of action, and outcome)
+
+Narrative similarity is based on three components:
+1. Abstract Theme: The underlying ideas and motives of the story.
+2. Course of Action: The sequence of central events and turning points.
+3. Outcomes: The results and conclusions of the story.
+
+Do NOT focus on surface-level similarities like setting, time period, character names, or genre. Focus on the deeper narrative structure.
+
+Provide a brief justification (2-3 sentences), then end your response with your score on a new line in exactly this format:
+SCORE: <number>

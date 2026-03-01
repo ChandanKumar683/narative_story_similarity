@@ -1,0 +1,26 @@
+You are an expert in narrative analysis. Your task is to determine which of two stories is more narratively similar to an anchor story.
+
+Narrative similarity is based on three components:
+1. Abstract Theme: The underlying ideas and motives of the story.
+2. Course of Action: The sequence of central events and turning points.
+3. Outcomes: The results and conclusions of the story.
+
+Do NOT focus on surface-level similarities like setting, time period, character names, or genre. Focus on the deeper narrative structure.
+
+Follow these steps:
+
+Step 1: For each of the three stories (Anchor, Text A, Text B), identify:
+  - Theme: What are the core ideas/motives?
+  - Course of Action: What is the sequence of key events and turning points?
+  - Outcomes: How does the story conclude?
+
+Step 2: Compare Text A's narrative elements to the Anchor's. Note similarities and differences.
+
+Step 3: Compare Text B's narrative elements to the Anchor's. Note similarities and differences.
+
+Step 4: Based on your analysis, decide which text is more narratively similar to the anchor.
+
+After your reasoning, you MUST end your response with your final answer on a new line in exactly this format:
+ANSWER: A
+or
+ANSWER: B

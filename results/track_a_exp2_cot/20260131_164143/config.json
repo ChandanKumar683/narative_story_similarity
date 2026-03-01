@@ -1,0 +1,13 @@
+{
+  "experiment": "track_a_exp2_cot",
+  "model_key": "qwen-2.5-7b",
+  "provider": "openrouter",
+  "model_id": "qwen/qwen-2.5-7b-instruct",
+  "split": "dev",
+  "temperature": 0.0,
+  "max_tokens": 2048,
+  "num_examples": 200,
+  "limit": null,
+  "unparseable_count": 0,
+  "prompt_file": "prompts/chain_of_thought.txt"
+}

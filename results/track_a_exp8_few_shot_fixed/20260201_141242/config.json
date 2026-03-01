@@ -1,0 +1,15 @@
+{
+  "experiment": "track_a_exp8_few_shot_fixed",
+  "model_key": "gpt-4o-mini",
+  "provider": "openrouter",
+  "model_id": "openai/gpt-4o-mini",
+  "split": "dev",
+  "temperature": 0.0,
+  "max_tokens": 16,
+  "num_shots": 3,
+  "shot_source": "prompts/few_shot.txt (fixed)",
+  "num_examples": 200,
+  "limit": null,
+  "unparseable_count": 0,
+  "prompt_file": "prompts/few_shot.txt"
+}
