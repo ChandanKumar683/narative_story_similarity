@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "gold": false,
+    "pred": false,
+    "correct": true
+  },
+  {
+    "id": 1,
+    "gold": true,
+    "pred": true,
+    "correct": true
+  },
+  {
+    "id": 2,
+    "gold": false,
+    "pred": false,
+    "correct": true
+  }
+]

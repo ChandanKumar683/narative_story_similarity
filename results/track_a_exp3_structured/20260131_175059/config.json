@@ -1,0 +1,17 @@
+{
+  "experiment": "track_a_exp3_structured",
+  "model_key": "qwen-2.5-7b",
+  "provider": "openrouter",
+  "model_id": "qwen/qwen-2.5-7b-instruct",
+  "split": "dev",
+  "temperature": 0.0,
+  "extract_max_tokens": 512,
+  "compare_max_tokens": 1024,
+  "num_examples": 200,
+  "limit": null,
+  "unparseable_count": 0,
+  "prompt_files": [
+    "prompts/structured_extract.txt",
+    "prompts/structured_compare.txt"
+  ]
+}

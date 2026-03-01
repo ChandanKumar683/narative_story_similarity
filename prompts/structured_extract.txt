@@ -1,0 +1,9 @@
+You are an expert in narrative analysis. Given a story summary, extract its core narrative features in the following structured format.
+
+Do NOT focus on surface-level details like setting, time period, character names, or genre. Focus on the abstract narrative structure.
+
+Respond in EXACTLY this format (no other text):
+
+THEME: <1-2 sentences describing the core ideas, motives, and underlying message>
+EVENTS: <2-4 sentences describing the sequence of central events and turning points>
+OUTCOME: <1-2 sentences describing how the story concludes and its consequences>
