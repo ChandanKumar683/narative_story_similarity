@@ -111,7 +111,7 @@ def run_experiment(
     limit: int | None = None,
 ) -> None:
     # ── API key (hardcoded or from environment) ─────────────────────────
-    api_key = "YOUR_OPENAI_API_KEY_HERE"  # <-- Replace with your actual OpenAI key
+    api_key = "api-key"  # <-- Replace with your actual OpenAI key
     client = OpenAI(api_key=api_key)
 
     # ── Load evaluation data ───────────────────────────────────────────────
