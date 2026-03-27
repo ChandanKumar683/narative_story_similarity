@@ -111,7 +111,7 @@ def run_experiment(
     limit: int | None = None,
 ) -> None:
     # ── API key (hardcoded or from environment) ─────────────────────────
-    api_key = "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"  # <-- Replace with your actual OpenAI key
+    api_key = "api-key"  # <-- Replace with your actual OpenAI key
     client = OpenAI(api_key=api_key)
 
     # ── Load evaluation data ───────────────────────────────────────────────
