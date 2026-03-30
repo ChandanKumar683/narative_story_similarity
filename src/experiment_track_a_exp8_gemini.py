@@ -38,7 +38,7 @@ from src.evaluation import evaluate_track_a, save_results
 # ══════════════════════════════════════════════════════════════════════════
 # PASTE YOUR GEMINI API KEY HERE
 # ══════════════════════════════════════════════════════════════════════════
-GEMINI_API_KEY = "api_key"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
 
 SPLIT_MAP = {
     "sample": SAMPLE_TRACK_A,
